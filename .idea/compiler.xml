@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="iratry.GlHomeworkGradle.main" target="1.8" />
+      <module name="iratry.GlHomeworkGradle.test" target="1.8" />
+      <module name="moduleA.main" target="1.8" />
+      <module name="moduleA.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
